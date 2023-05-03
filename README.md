@@ -2,7 +2,9 @@
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
 • ERC-721 Token Name:  Star Token
+
 • ERC-721 Token Symbol: STC
+
 • “Token Address” on the Rinkeby(Sepolia) Network : 0xb216C98d017ce607AE980E9Bb8009c5F9f80b45B
 
 Deployed on sepolia
